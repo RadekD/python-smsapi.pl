@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import os, sys
 import re, requests
-from urllib import urlencode 
 
 __author__ = 'Radek Dejnek <radek.dejnek@gmail.com>'
 __version__ = '1.0'
